@@ -44,10 +44,22 @@ Screenshots are included in the `/screenshots` folder:
 ---
 
 ## 🧾 Notes
-- Used AWS Free Tier
+- Used GCS Free Tier
 - Files organized and access tested
 - GitHub repo stores metadata, not actual cloud data
 
 ---
 
 ## 📎 Repository Structure
+cloud-storage-setup/
+├── README.md
+├── screenshots/
+│ └── bucket_creation.png
+│ └── file_upload.png
+│ └── public_file_access.png
+├── files_uploaded/
+│ └── cloud_computing.txt
+│ └── first_project.pdf
+└── output/
+└── public_file_link.txt
+
